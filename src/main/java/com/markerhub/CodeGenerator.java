@@ -33,6 +33,7 @@ public class CodeGenerator {
                 return ipt;
             }
             System.out.println("aaaa1a");
+            System.out.println("master text");
         }
         throw new MybatisPlusException("请输入正确的" + tip + "！");
     }
