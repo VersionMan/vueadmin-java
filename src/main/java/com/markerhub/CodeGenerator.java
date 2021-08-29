@@ -33,7 +33,7 @@ public class CodeGenerator {
                 return ipt;
             }
             System.out.println("aaaa1a");
-            System.out.println("master text");
+           
             System.out.println("hotfix");
             System.out.println("push master");
              System.out.println("push web");
