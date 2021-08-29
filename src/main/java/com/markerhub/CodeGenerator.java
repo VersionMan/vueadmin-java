@@ -34,6 +34,7 @@ public class CodeGenerator {
             }
             System.out.println("aaaa1a");
             System.out.println("master text");
+            System.out.println("hotfix");
         }
         throw new MybatisPlusException("请输入正确的" + tip + "！");
     }
