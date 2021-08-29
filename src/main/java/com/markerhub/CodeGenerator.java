@@ -32,7 +32,7 @@ public class CodeGenerator {
             if (StringUtils.isNotBlank(ipt)) {
                 return ipt;
             }
-            System.out.println("aaaa1");
+            System.out.println("aaaa1a");
         }
         throw new MybatisPlusException("请输入正确的" + tip + "！");
     }
